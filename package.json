@@ -1,0 +1,19 @@
+{
+  "name": "@hacker-maker.com/npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalmat/npm-test.git"
+  },
+  "author": "Mathieu LALLEMAND (lalmat)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalmat/npm-test/issues"
+  },
+  "homepage": "https://github.com/lalmat/npm-test#readme"
+}
