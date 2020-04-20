@@ -1,4 +1,4 @@
-export default {
+module.export = {
   function test() {
     return "Hello World !";
   }
