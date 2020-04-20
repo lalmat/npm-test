@@ -1,5 +1,8 @@
 module.export = {
-  function test() {
+  test: function() {
     return "Hello World !";
+  }
+  sum: function(num1, num2) {
+    return num1 + num2;
   }
 }
